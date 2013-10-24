@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+# IDE Files #
+.project
+.classpath
+.settings
+
+# Only this gitingore must to live! #
+**/.gitignore
