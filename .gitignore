@@ -10,5 +10,5 @@
 .classpath
 .settings
 
-# Only this gitingore must to live! #
+# Only this gitignore must to live! #
 **/.gitignore
